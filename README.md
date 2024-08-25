@@ -93,3 +93,9 @@ let variableName: type = value;
       }
     }
     ```
+
+### never
+*  never - Some function "never" return a value
+* The never type represents values which are never observed. In a return type, this means that
+* The function throws an exception or terminates execution of the program.
+* never also appears when TypeScript determines there's nothing left in a union.
