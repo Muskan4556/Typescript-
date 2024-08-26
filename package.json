@@ -1,0 +1,12 @@
+{
+  "name": "complete-typescript",
+  "version": "1.0.0",
+  "description": "* A Static Type Checker * TypeScript stands in an unusual relationship to JavaScript. * It offers all of JavaScript’s features, and an additional layer on top of these: TypeScript’s type system.  * Using TypeScript's type system helps catch errors at compile time and improves the overall robustness of your code. Always aim to define specific types for your variables, functions, and objects to leverage TypeScript's full power. Using `any` should be a last resort when type safety isn't feasible or necessary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
